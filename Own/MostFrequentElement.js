@@ -3,7 +3,6 @@ const chars = ['a', 'b', 'c', 'a', 'a', 'b'];
 
 // Output:
 // 'a'
-
 function MostFreq(chars) {
     let result = {};
 
